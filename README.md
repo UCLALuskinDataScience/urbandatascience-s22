@@ -82,7 +82,7 @@ Week 2: Web scraping
 
 Weeks 3 and 4: Data wrangling
 
-Weeks 5 and 6: Natural language processing (1): parsing
+Week 5: Natural language processing (1): parsing
 
 Week 6: Natural language processing (2): topic modeling and sentiment analysis
 
