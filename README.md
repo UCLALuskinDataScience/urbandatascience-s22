@@ -6,8 +6,8 @@ Spring 2022: Wednesdays 9-11.50, Public Affairs 2343
 **Teaching assistant:** Tiffany Green
 
 **Office hours:** 
-* Adam Millard-Ball: Tuesdays 2-3 and Wednesdays 12-1. [Sign up here](https://goo.gl/X7vFOD)
-* Tiffany Green: TBD
+* Adam Millard-Ball: Varies, but normally Tuesdays 2-3 and Wednesdays 12-1. [Sign up here](https://goo.gl/X7vFOD)
+* Tiffany Green: [Sign up here](https://calendly.com/green-tiffanyd)
 
 **About this course:** New data sources are a potential goldmine for urban planners and policy makers. But sometimes they are large, sometimes they are messy, sometimes they are awkward to access, and often they are all of these things. In this hands-on course, we’ll develop skills in scraping, processing, and managing urban data, and using tools such as natural language processing, geospatial analysis, and machine learning. We’ll use examples from transit, housing, and equity planning, and build competence in open-source tools and languages such as Python and SQL. We’ll also consider the limits to data science, and the biases and pitfalls that "big data" can entail.
 
