@@ -8,6 +8,7 @@ __pycache__/
 
 #
 .DS_Store
+classlist.ipynb
 
 # Distribution / packaging
 .Python
