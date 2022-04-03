@@ -78,6 +78,8 @@ Pre-course:
 
 Week 1: Introduction and APIs
 
+[HW1: Due Tuesday Apr 12](https://classroom.github.com/a/d6Qhu_kb). 
+
 Week 2: Web scraping
 
 Weeks 3 and 4: Data wrangling
