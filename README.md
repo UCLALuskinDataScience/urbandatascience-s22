@@ -77,20 +77,37 @@ Pre-course:
 * Complete Module 0 on Canvas, which sets you up with [GitHub](https://github.com/) and [Anaconda](https://www.anaconda.com/products/individual)
 
 Week 1: Introduction and APIs
+* [APIs](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/3%20APIs.ipynb)
+* [Getting census data](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/4%20Getting%20census%20data.ipynb)
+* [The Socrata API](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/5%20The%20Socrata%20API.ipynb)
+* [Class activities](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/classes/Class%201.ipynb) and [solutions](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/classes/Class%201%20solutions.ipynb)
 
 [HW1: Due Tuesday Apr 12](https://classroom.github.com/a/d6Qhu_kb). 
 
 Week 2: Web scraping
+* [Scraping permits](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/6%20Scraping%20permits.ipynb)
+* [Scraping Craigslist](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/7%20Scraping%20craigslist.ipynb)
+* [Class activities](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/classes/Class%202.ipynb) and [solutions](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/classes/Class%202%20solutions.ipynb)
 
-Weeks 3 and 4: Data wrangling
+Week 3: Data wrangling
+* [Data wrangling](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/8%20Data%20wrangling.ipynb)
+* [Class activities](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/classes/Class%203.ipynb)
 
-Week 5: Natural language processing (1): parsing
+HW2: Due Tuesday Apr 26
+ 
+Week 4: Spatial joins
+* [Spatial joins](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/9%20Spatial%20joins.ipynb)
+* [Advanced spatial joins](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/10%20Advanced%20spatial%20joins.ipynb)
+* [GTFS](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/11%20GTFS.ipynb)
+* Class activities
 
-Week 6: Natural language processing (2): topic modeling and sentiment analysis
+Week 5: Machine learning: prediction
 
-Week 7: Machine learning (1): supervised algorithms
+Week 6: Machine learning: clustering
 
-Week 8: Machine learning (2): unsupervised algorithms
+Week 7: Natural language processing: parsing
+
+Week 8: Natural language processing: topic modeling and sentiment analysis
 
 Week 9: Databases
 
