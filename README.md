@@ -93,13 +93,13 @@ Week 3: Data wrangling
 * [Data wrangling](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/8%20Data%20wrangling.ipynb)
 * [Class activities](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/classes/Class%203.ipynb)
 
-HW2: Due Tuesday Apr 26
+[HW2: Due Tuesday Apr 26](https://classroom.github.com/a/c4U5F6hq)
  
 Week 4: Spatial joins
 * [Spatial joins](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/9%20Spatial%20joins.ipynb)
 * [Advanced spatial joins](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/10%20Advanced%20spatial%20joins.ipynb)
 * [GTFS](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/11%20GTFS.ipynb)
-* Class activities
+* [Class activities](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/classes/Class%204.ipynb)
 
 Week 5: Machine learning: prediction
 
