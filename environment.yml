@@ -1,0 +1,31 @@
+name: uds
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - notebook=6.4.5
+  - cenpy
+  - pandas
+  - geopandas
+  - contextily
+  - requests
+  - shapely
+  - bs4
+  - matplotlib
+  - seaborn
+  - PyPDF2
+  - pdfminer.six
+  - nltk
+  - gensim
+  - openpyxl
+  - pyLDAvis
+  - pygeos
+  - tweepy
+  - textblob
+  - scikit-learn
+  - pandasql
+  - pip
+  - pip:
+    - sodapy
+    - partridge
